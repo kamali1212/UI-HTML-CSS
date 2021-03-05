@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+}
+h1{
+    color:black;
+    font-size:300%;
+    text-align:center;
+    background-color:rgb(180, 178, 178);
+    font-family:sans-serif;
+    font-weight: normal;
+    padding:50px;
+    }
+ul{
+    list-style-type:none;
+    text-align: center; 
+    margin:0;
+    padding:0;
+    overflow:hidden;
+   }
+    a{
+        display:inline-block;
+        text-align:center ;
+        text-decoration:none;
+        color:black;
+        padding:10px;  
+      }
+    li{display: inline;
+    padding: 15px;
+}
+.style
+{
+    box-sizing: border-box;
+}
+.img-container
+{
+    float:left;
+    width:33.33%;
+    padding:0px;
+    text-align: center;
+}
+    
